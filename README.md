@@ -1,1 +1,1 @@
-# ThreeJS-beginnerproject
+# getting-started-with-threejs
